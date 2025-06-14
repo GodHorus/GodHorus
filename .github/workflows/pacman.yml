@@ -21,7 +21,10 @@ jobs:
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: godhorus
+
+      - name: List files in dist directory (debugging)
+        run: ls -laR dist
 
 
       - name: push pacman-contribution-graph.svg to the output branch
