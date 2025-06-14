@@ -26,7 +26,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/godhorus/godhorus/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
 ###
