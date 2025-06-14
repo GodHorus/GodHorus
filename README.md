@@ -28,19 +28,19 @@
 
 
 ###
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/rdx">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=kcjfnfbieinjag2ywbi6r9a5b">
   </a>
-</div>
+</div> -->
 
 ###
